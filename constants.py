@@ -1,5 +1,5 @@
-USERNAME = 'kuprin.rabota@gmail.com'
-PASSWORD = 'gorky013'
+USERNAME = ''
+PASSWORD = ''
 COMMAND_EXECUTOR = 'http://localhost:4444/wd/hub'
 RECIPIENT_MAIL = 'farit.valiahmetov@simbirsoft.com'
 TOPIC = 'Тестовое задание. Куприн'
