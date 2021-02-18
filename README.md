@@ -14,5 +14,8 @@
 Измените файл Constants.py, введите ваш логин и пароль от почты Gmail.
 В constans.py измените 'COMMAND_EXECUTOR' на необходимый адрес Hub'а.
 Для запуска теста и генерации отчета воспользуйтесь командами: 
-    pytest --alluredir=Reports/<название теста>
-    allure serve Reports/<название теста>
+
+```
+pytest --alluredir=Reports/<название теста>
+allure serve Reports/<название теста>
+```
